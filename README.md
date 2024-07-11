@@ -1,12 +1,12 @@
 # Predicting-the-price-of-pre-owned-cars
-#AIM
+# AIM
 This project aims build a Linear Regression and Random Forest model on two sets of data:
 1. Data obtained by omitting rows with missing values.
 2. Data obtained by imputing missing values.
 To assess these machine learning models in predicting the prices of used  cars and draw insights into their behavior. The goal is to enhance understanding of how machine learning can be effectively employed in valuing cars and similar price prediction challenges.
-#PROBLEM STATEMENT
+# PROBLEM STATEMENT
 Storm Motors is an E-Commerce Company who act as mediators between parties interested in selling and buying pre-owned cars. They have recorded data about the seller and car details, registration retails, web advertisement details, make and model information and price. The company wishes to develop an algorithm to predict the price of pre-owned cars based on various attributes associated with the car.
-#METHODOLOGY
+# METHODOLOGY
 To address the task at hand, we implemented a Python-based solution for data analysis and prediction of car prices. This involved a dataset containing information on 50,000 cars, including details like brand, model, and other relevant features. The dataset underwent preprocessing to ensure its cleanliness and removal of unnecessary information.
 Subsequently, we conducted a comprehensive analysis of the data using graphical representations such as graphs and charts.. An emphasis was 
 placed on identifying and handling outliers that could influence the accuracy of our predictions.
